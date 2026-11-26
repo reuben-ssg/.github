@@ -66,5 +66,7 @@
 <circle cx="125.5" cy="197" r="2" fill="#fff"/><circle cx="276.5" cy="224" r="2" fill="#fff"/>
 </g></svg>
 <text class="tag" x="90" y="470" font-size="54">The tastiest static site generator.</text>
-<text class="url" x="90" y="540" font-size="36">reuben-ssg.dev</text>
+<rect x="98" y="511" width="714" height="68" rx="16" fill="#2a1420"/>
+<rect x="90" y="503" width="714" height="68" rx="16" fill="#e0177a" stroke="#2a1420" stroke-width="4"/>
+<text x="116" y="548" font-size="32" style="font-family:'Nunito',sans-serif;font-weight:900;fill:#fff">Get started at reuben-ssg.dev/quickstart →</text>
 </svg>
