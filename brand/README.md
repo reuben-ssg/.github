@@ -11,6 +11,7 @@ The same values drive the documentation site's `deli` theme.
 | [`icon.svg`](icon.svg) | The square icon: a magenta R on mustard, for favicons and small spaces. |
 | [`avatar.png`](avatar.png) | The icon at 512 by 512 pixels, for profile pictures such as the GitHub organization avatar. |
 | [`sandwich.svg`](sandwich.svg) | A half Reuben sandwich on rye, the mascot artwork. |
+| [`og.png`](og.png) | The 1200 by 630 link-preview image: wordmark, sandwich and tagline on mustard. [`og.svg`](og.svg) is its source, with Nunito embedded; render it in a browser, at exactly 1200 by 630. |
 
 The R in the wordmark and the icon is a glyph outline from the Pacifico typeface, used under the SIL Open Font License ([`Pacifico-OFL.txt`](Pacifico-OFL.txt)), so the files need no web font.
 Give the artwork alternative text wherever you use it, such as "Reuben" for the wordmark.
